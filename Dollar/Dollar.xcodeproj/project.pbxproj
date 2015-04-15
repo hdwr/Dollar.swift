@@ -196,7 +196,7 @@
 		92E0D03319467C67002ACC3D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0620;
+				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "Encore Dev Labs LLC";
 				TargetAttributes = {
 					92E0D03B19467C67002ACC3D = {
